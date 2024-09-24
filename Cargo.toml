@@ -1,0 +1,7 @@
+[package]
+name = "macro-learning"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+the_macro = { path = "the_macro" }
